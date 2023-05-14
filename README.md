@@ -1,2 +1,2 @@
 # game
- This is our game
+ This is an ugly game :<
