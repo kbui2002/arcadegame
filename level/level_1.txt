@@ -1,0 +1,1 @@
+{'water': {}, 'bg palms': {}, 'terrain': {(1088, 128): 'X'}, 'enemies': {}, 'coins': {}, 'fg objects': {(40, 3): 0, (498, 20): 1}}
